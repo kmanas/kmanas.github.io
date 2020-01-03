@@ -32,10 +32,10 @@ social_media:
   #kaggle: #your_username
   # dribbble: your_username
   # facebook: your_username
-  #hackerrank: #your_username
+  hackerrank: #your_username
   # instagram: your_username
   # keybase: your_username
-  #linkedin: #your_username
+  linkedin: #your_username
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
@@ -71,6 +71,6 @@ topics:
     web_url: https://github.com/topics/data-visualization
     image_url: #https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png
 
-  - name: Tensorflow
-    web_url: https://github.com/topics/tensorflow
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png
+  #- name: Tensorflow
+    #web_url: https://github.com/topics/tensorflow
+    #image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png
