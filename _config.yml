@@ -23,10 +23,10 @@ projects:
   #   - stars
   limit: 6
   exclude:
-    archived: false
+    archived: true
     forks: false
     projects:
-    - kmanas/SQL-for-Data-Science
+    # - kmanas/SQL-for-Data-Science
 
 social_media:
   #kaggle: #your_username
