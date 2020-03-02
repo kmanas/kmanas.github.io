@@ -23,7 +23,7 @@ projects:
   #   - stars
   limit: 6
   exclude:
-    archived: true
+    archived: false
     forks: false
     projects:
     # - kmanas/SQL-for-Data-Science
